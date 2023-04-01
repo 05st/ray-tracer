@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "vec3.h": "c",
-        "stb_image_write.h": "c"
+        "stb_image_write.h": "c",
+        "ray.h": "c"
     }
 }

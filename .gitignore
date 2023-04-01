@@ -1,3 +1,4 @@
+.vscode/
 ray-tracer
 *.exe
 *.out
